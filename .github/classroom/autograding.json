@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Tutorial9_Test",
+      "setup": "",
+      "run": "node Tutorial9.js",
+      "input": "",
+      "output": "\r\n\r\n\r\n\r\n   *****\r\n   *****\r\n   *****\r\n   *****\r\n   *****\r\n\r\n\r\n\r\n     *\r\n    ***\r\n   *****\r\n  *******\r\n *********",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
